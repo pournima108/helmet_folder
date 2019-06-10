@@ -1,0 +1,38 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>59. minit8mwiuju4-medium.jpg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\59. minit8mwiuju4-medium.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>24</ymin>
+			<xmax>228</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>18</ymin>
+			<xmax>231</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

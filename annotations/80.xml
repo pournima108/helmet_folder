@@ -1,0 +1,38 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>27. scott-safety-helmets-hc300el.jpg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\27. scott-safety-helmets-hc300el.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>83</ymin>
+			<xmax>799</xmax>
+			<ymax>789</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>78</ymin>
+			<xmax>794</xmax>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+</annotation>

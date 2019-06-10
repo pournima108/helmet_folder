@@ -1,0 +1,38 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>65. starlight-secure-protective-disability-safety-helmet.jpg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\65. starlight-secure-protective-disability-safety-helmet.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>8</ymin>
+			<xmax>612</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>29</ymin>
+			<xmax>590</xmax>
+			<ymax>630</ymax>
+		</bndbox>
+	</object>
+</annotation>

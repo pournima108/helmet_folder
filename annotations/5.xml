@@ -1,0 +1,38 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>48. medium-excellent-fieldstar-original-imaf5ckwbqz5fsg2.jpeg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\48. medium-excellent-fieldstar-original-imaf5ckwbqz5fsg2.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>12</ymin>
+			<xmax>595</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>9</ymin>
+			<xmax>596</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>

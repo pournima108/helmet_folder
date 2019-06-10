@@ -1,0 +1,38 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>98. pe07_bk_front.jpg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\98. pe07_bk_front.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>830</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>32</ymin>
+			<xmax>804</xmax>
+			<ymax>873</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>41</ymin>
+			<xmax>803</xmax>
+			<ymax>891</ymax>
+		</bndbox>
+	</object>
+</annotation>

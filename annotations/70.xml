@@ -1,0 +1,26 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>100. csm_videos_uvex_safety_arbeitsschutzhelm_tragekomfort_ca3f9373a5.jpg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\100. csm_videos_uvex_safety_arbeitsschutzhelm_tragekomfort_ca3f9373a5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>852</width>
+		<height>479</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>1</ymin>
+			<xmax>448</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

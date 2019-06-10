@@ -1,0 +1,38 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>57. 7b7d35a1-8b31-4bbd-8e30-66f8297f3e45.jpg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\57. 7b7d35a1-8b31-4bbd-8e30-66f8297f3e45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>125</ymin>
+			<xmax>765</xmax>
+			<ymax>730</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>80</ymin>
+			<xmax>782</xmax>
+			<ymax>741</ymax>
+		</bndbox>
+	</object>
+</annotation>

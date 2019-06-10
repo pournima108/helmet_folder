@@ -1,0 +1,26 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>72. quartz_iv_bc.jpg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\72. quartz_iv_bc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2267</width>
+		<height>1804</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>1</ymin>
+			<xmax>2223</xmax>
+			<ymax>1796</ymax>
+		</bndbox>
+	</object>
+</annotation>

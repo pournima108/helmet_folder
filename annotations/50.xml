@@ -1,0 +1,26 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>84. saviour-freedom-industrial-helmet-with-ratchet-hdpe-6_3.jpg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\84. saviour-freedom-industrial-helmet-with-ratchet-hdpe-6_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>77</ymin>
+			<xmax>580</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

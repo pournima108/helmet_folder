@@ -1,0 +1,38 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>24. apx-02_front_zoom_head.jpg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\24. apx-02_front_zoom_head.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>813</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>16</ymin>
+			<xmax>790</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>32</ymin>
+			<xmax>790</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

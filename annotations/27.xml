@@ -1,0 +1,26 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>66. free-print-logo-safety-helmet-hard-hat-work.jpg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\66. free-print-logo-safety-helmet-hard-hat-work.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>85</ymin>
+			<xmax>737</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+</annotation>

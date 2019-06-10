@@ -1,0 +1,26 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>82. saf.har.62020570_1547635953793.jpg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\82. saf.har.62020570_1547635953793.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>34</ymin>
+			<xmax>284</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

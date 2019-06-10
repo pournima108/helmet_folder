@@ -1,0 +1,26 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>14. diamondorangehr.jpg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\14. diamondorangehr.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3364</width>
+		<height>2404</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>53</ymin>
+			<xmax>3183</xmax>
+			<ymax>2189</ymax>
+		</bndbox>
+	</object>
+</annotation>

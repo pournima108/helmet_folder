@@ -1,0 +1,26 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>55. ce-en-397-inner-cap-safety-helmets.jpg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\55. ce-en-397-inner-cap-safety-helmets.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>57</ymin>
+			<xmax>307</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

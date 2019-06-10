@@ -1,0 +1,26 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>31. ps51bkr.jpg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\31. ps51bkr.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>697</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>13</ymin>
+			<xmax>999</xmax>
+			<ymax>690</ymax>
+		</bndbox>
+	</object>
+</annotation>

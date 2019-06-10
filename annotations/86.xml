@@ -1,0 +1,26 @@
+<annotation>
+	<folder>safety helmets</folder>
+	<filename>4. gt-72203.jpg</filename>
+	<path>D:\PournimaProjects\POC\keras-yolo3\safety helmets\4. gt-72203.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>233</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>5</ymin>
+			<xmax>298</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>
